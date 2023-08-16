@@ -1,0 +1,14 @@
+{
+    "name": "hrnsykk/fake-shop",
+    "description": "Faker-Shop is a PHP library that generates fake data for you.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Harun Soykok"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "orchestra/testbench": "~3.0"
+    }
+}
